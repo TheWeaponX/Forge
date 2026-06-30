@@ -2,6 +2,9 @@
 
 > Plataforma inteligente de evolução física.
 
+Working Title
+Version 0.1 Alpha
+
 ## Plataformas
 
 - 🌐 Web
