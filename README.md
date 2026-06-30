@@ -1,9 +1,11 @@
 # FORGE
 
+>Working Title
+>Version 0.1 Alpha
+
 > Plataforma inteligente de evolução física.
 
-Working Title
-Version 0.1 Alpha
+> ⚠️ **Observação:** "Forge" é um nome provisório (*Working Title*). O nome comercial poderá ser alterado antes do lançamento oficial.
 
 ## Plataformas
 
