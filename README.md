@@ -1,38 +1,91 @@
 # FORGE
 
->Working Title
->Version 0.1 Alpha
+> **Working Title**
 
-> Plataforma inteligente de evolução física.
+Forge é uma plataforma inteligente de evolução física que integra musculação, calistenia, street workout, saúde, comunidade e inteligência artificial em um único ecossistema.
 
-> ⚠️ **Observação:** "Forge" é um nome provisório (*Working Title*). O nome comercial poderá ser alterado antes do lançamento oficial.
+> ⚠️ **Observação:** "Forge" é um nome provisório (*Working Title*) e poderá ser alterado antes do lançamento oficial.
+
+---
+
+## Objetivo
+
+Construir a plataforma mais completa para acompanhar a evolução física do usuário, combinando:
+
+- 🏋️ Musculação
+- 🤸 Calistenia
+- 🏃 Cardio
+- 🧘 Mobilidade
+- 🥗 Nutrição
+- 😴 Sono
+- 🤖 Inteligência Artificial
+- 👥 Comunidade
+- 🎮 Gamificação
+
+---
 
 ## Plataformas
 
-- 🌐 Web
-- 📱 Android
-- 🍎 iOS
-- 💻 Desktop
+- 🌐 Web (React)
+- 📱 Android (Flutter)
+- 🍎 iOS (Flutter)
+- 💻 Desktop (Flutter)
+
+---
 
 ## Tecnologias
 
+### Front-end
+
 - React
-- Flutter
+- TypeScript
+- Vite
+- TailwindCSS
+- shadcn/ui
+- Framer Motion
+- Zustand
+- React Router
+
+### Backend
+
 - NestJS
 - PostgreSQL
+- Prisma
 - Firebase
-- SQLite
-- TypeScript
+- Redis
+
+### Mobile
+
+- Flutter
+
+---
 
 ## Documentação
 
-- Product Vision
-- Arquitetura
-- Banco de Dados
-- API
-- IA
-- Roadmap
+| Documento | Status |
+|-----------|--------|
+| Product Vision | 🚧 |
+| Arquitetura | ⏳ |
+| Banco de Dados | ⏳ |
+| API | ⏳ |
+| IA | ⏳ |
+| Design System | ⏳ |
 
-## Status
+---
 
-🚧 Em desenvolvimento
+## Roadmap
+
+- [x] Planejamento
+- [ ] Arquitetura
+- [ ] Dashboard
+- [ ] Sistema de Treinos
+- [ ] Biblioteca de Exercícios
+- [ ] IA
+- [ ] Comunidade
+- [ ] Flutter
+
+---
+
+## Licença
+
+Em definição.
