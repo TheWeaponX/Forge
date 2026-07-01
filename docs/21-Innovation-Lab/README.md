@@ -2,37 +2,29 @@
 
 # Innovation Lab
 
-Versão: 1.0
+**Versão:** 2.0
 
-Status: Permanente
+**Status:** Permanente
 
 ---
 
 # Objetivo
 
-O Innovation Lab é o ambiente oficial de pesquisa e inovação do Forge.
+O Innovation Lab é o centro de Pesquisa & Desenvolvimento (R&D) do Forge.
 
-Seu propósito é registrar, desenvolver e avaliar ideias antes que elas façam parte do produto.
+Seu propósito é registrar, pesquisar, validar e evoluir ideias inovadoras antes que façam parte do produto oficial.
+
+Ele funciona como um ambiente seguro para experimentação, documentação e tomada de decisões.
 
 Nem toda ideia será implementada.
 
-Toda ideia merece ser registrada.
+Toda ideia relevante deve ser registrada.
 
 ---
 
-# Filosofia
+# Processo de Inovação
 
-Inovação não acontece por acaso.
-
-Ela precisa de organização.
-
-O Innovation Lab existe para permitir experimentação sem comprometer o produto principal.
-
----
-
-# Como funciona
-
-Toda nova ideia entra primeiro aqui.
+Nova Ideia
 
 ↓
 
@@ -40,7 +32,7 @@ Pesquisa
 
 ↓
 
-Discussão
+Validação Técnica
 
 ↓
 
@@ -48,15 +40,15 @@ Protótipo
 
 ↓
 
-Validação
+Teste
 
 ↓
 
-Análise técnica
+Análise
 
 ↓
 
-Aprovação
+RFC
 
 ↓
 
@@ -64,144 +56,419 @@ Future Roadmap
 
 ↓
 
-Produto
+Implementação
 
 ---
 
-# Categorias
+# Classificação
+
+★★★★★ Revolucionário
+
+★★★★☆ Alto impacto
+
+★★★☆☆ Médio impacto
+
+★★☆☆☆ Baixa prioridade
+
+★☆☆☆☆ Experimental
+
+---
+
+# Status
+
+🟢 Pesquisa
+
+🟡 Protótipo
+
+🟠 Em validação
+
+🔵 Aprovado
+
+⚫ Arquivado
+
+---
+
+# Áreas de Pesquisa
 
 ## Inteligência Artificial
 
-IA Generativa
+- IA Generativa
+- Agentes
+- Machine Learning
+- IA Conversacional
+- Modelos Preditivos
 
-Agentes
+---
 
-Machine Learning
+## Ciência de Dados
 
-Computer Vision
+- Analytics
+- Recomendações
+- Correlações
+- Estatística
+- Big Data
 
-Modelos preditivos
+---
+
+## Computer Vision
+
+- Reconhecimento corporal
+- Correção de postura
+- Contagem automática de repetições
+- Avaliação de amplitude
+- Estabilidade
 
 ---
 
 ## Produto
 
-Novas funcionalidades
-
-Gamificação
-
-Experiência do usuário
-
-Interface
+- UX
+- Gamificação
+- Comunidade
+- Interface
+- Experiência do Usuário
 
 ---
 
 ## Engenharia
 
-Arquitetura
-
-Banco de dados
-
-Sincronização
-
-Performance
-
-Escalabilidade
-
----
-
-## Comunidade
-
-Eventos
-
-Desafios
-
-Competições
-
-Marketplace
-
----
-
-## Saúde
-
-Nutrição
-
-Sono
-
-Recuperação
-
-Biomecânica
-
-Prevenção de lesões
+- Arquitetura
+- Performance
+- Offline
+- Sincronização
+- Segurança
 
 ---
 
 ## Hardware
 
-Wearables
-
-Sensores
-
-Smartwatches
-
-Equipamentos inteligentes
-
-IoT
+- Wearables
+- Smartwatch
+- Sensores
+- IoT
 
 ---
 
-# Critérios de Avaliação
-
-Toda ideia deverá responder:
-
-Qual problema resolve?
-
-Quem será beneficiado?
-
-Existe algo semelhante no mercado?
-
-Qual o diferencial?
-
-Qual a complexidade?
-
-Qual o impacto esperado?
-
-Quais dependências existem?
-
-Vale a pena para o MVP?
+# Projetos de Pesquisa
 
 ---
 
-# Processo de Aprovação
+# ★★★★★ Forge AI Coach
 
-Ideia
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Treinador inteligente personalizado.
+
+Funções
+
+- montar treinos
+- responder dúvidas
+- analisar evolução
+- sugerir recuperação
+- adaptar metas
+
+---
+
+# ★★★★★ Workout Intelligence Engine (WIE)
+
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Motor responsável por descobrir padrões ocultos nos treinos.
+
+Exemplos
+
+- detectar platôs
+- sugerir deload
+- prever fadiga
+- identificar excesso de volume
+- recomendar progressões
+
+---
+
+# ★★★★★ Forge Knowledge Graph
+
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Criar uma rede de conhecimento conectando todas as entidades do Forge.
+
+Conexões
+
+Exercícios
 
 ↓
 
-Pesquisa
+Músculos
 
 ↓
 
-Discussão
+Progressões
 
 ↓
 
-Protótipo
+Regressões
 
 ↓
 
-Validação
+Equipamentos
 
 ↓
 
-Roadmap
+Objetivos
 
 ↓
 
-Implementação
+Skills
+
+↓
+
+Lesões
+
+↓
+
+Treinos
+
+↓
+
+IA
+
+Benefícios
+
+- IA contextual
+- Recomendações inteligentes
+- Pesquisa avançada
+- Explicações completas
+- Melhor personalização
+
+---
+
+# ★★★★★ Forge Genome
+
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Registrar toda a evolução histórica do usuário.
+
+Inclui
+
+- evolução física
+- mudanças de objetivo
+- modalidades
+- habilidades
+- hábitos
+- histórico anual
+
+---
+
+# ★★★★★ Forge Timeline
+
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Criar uma linha do tempo inteligente da jornada do usuário.
+
+A Timeline reunirá automaticamente os momentos mais importantes registrados pelo Forge.
+
+Exemplos de eventos
+
+- Primeiro treino
+- Primeira barra fixa
+- Primeiro Muscle-Up
+- Novo recorde pessoal
+- Mudança de peso
+- Conquista desbloqueada
+- Novo nível
+- Nova Skill dominada
+- Streak de 100 dias
+- Participação em desafios
+- Entrada em grupos
+- Evolução do Forge DNA
+
+Exemplo
+
+2026
+
+Janeiro
+
+✔ Entrou no Forge
+
+Fevereiro
+
+🏆 Primeiras 10 barras
+
+Março
+
+💪 Peso: 78 kg
+
+Abril
+
+⭐ Primeiro Muscle-Up
+
+Junho
+
+🔥 100 dias de ofensiva
+
+Agosto
+
+🎖 Nível 20
+
+Outubro
+
+🏅 Top 10 da cidade
+
+Dezembro
+
+📈 +12% de força relativa
+
+Possibilidades futuras
+
+- Compartilhar Timeline
+- Retrospectiva anual
+- Forge Wrapped
+- Linha do tempo interativa
+- Comparação entre anos
+- Filtros por categoria
+- Busca por eventos
+
+---
+
+# ★★★★☆ Computer Vision
+
+Status
+
+🟢 Pesquisa
+
+Objetivo
+
+Analisar vídeos automaticamente.
+
+Funções
+
+- postura
+- alinhamento
+- velocidade
+- estabilidade
+- amplitude
+- técnica
+
+---
+
+# ★★★★☆ Wearables
+
+Status
+
+🟢 Pesquisa
+
+Integração com
+
+- Apple Watch
+- Garmin
+- Polar
+- Fitbit
+- Wear OS
+
+---
+
+# ★★★★☆ Smart Recommendations
+
+Status
+
+🟢 Pesquisa
+
+Sistema inteligente de recomendações.
+
+Exemplos
+
+- exercícios
+- descanso
+- grupos
+- desafios
+- conteúdos
+- Skills
+
+---
+
+# ★★★☆☆ Forge Seasons
+
+Temporadas competitivas.
+
+---
+
+# ★★★☆☆ Marketplace
+
+Marketplace oficial.
+
+---
+
+# ★★★★☆ Coach Mode
+
+Ferramentas para treinadores.
+
+---
+
+# ★★★☆☆ API Pública
+
+Integração com aplicações externas.
+
+---
+
+# ★★☆☆☆ Forge Labs
+
+Ambiente para testes experimentais.
+
+---
+
+# Banco de Ideias
+
+Toda nova ideia deverá conter
+
+- Nome
+- Objetivo
+- Problema que resolve
+- Impacto esperado
+- Complexidade
+- Dependências
+- Área
+- Prioridade
+- Status
+- Responsável
+- Data de criação
+- RFC relacionada (quando existir)
+
+---
+
+# Ideias Rejeitadas
+
+As ideias rejeitadas não serão apagadas.
+
+Serão documentadas com
+
+- motivo da rejeição
+- data
+- possibilidade de revisão
+- alternativas consideradas
 
 ---
 
 # Objetivo Final
 
-Transformar o Forge em uma plataforma que evolui continuamente sem perder qualidade.
+Construir uma plataforma que evolui continuamente, mantendo um histórico organizado de pesquisas, experimentos e decisões.
+
+O Innovation Lab garante que a inovação do Forge seja sistemática, documentada e sustentável ao longo dos anos.
